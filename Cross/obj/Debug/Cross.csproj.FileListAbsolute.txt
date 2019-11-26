@@ -1,0 +1,23 @@
+C:\Users\Deivido-PC\Documents\MAIN_DATA\06\intelektikos pagrindai\4 darbas\Cross\Cross\bin\Debug\Cross.exe.config
+C:\Users\Deivido-PC\Documents\MAIN_DATA\06\intelektikos pagrindai\4 darbas\Cross\Cross\bin\Debug\Cross.exe
+C:\Users\Deivido-PC\Documents\MAIN_DATA\06\intelektikos pagrindai\4 darbas\Cross\Cross\bin\Debug\Cross.pdb
+C:\Users\Deivido-PC\Documents\MAIN_DATA\06\intelektikos pagrindai\4 darbas\Cross\Cross\obj\Debug\Cross.csprojAssemblyReference.cache
+C:\Users\Deivido-PC\Documents\MAIN_DATA\06\intelektikos pagrindai\4 darbas\Cross\Cross\obj\Debug\Cross.csproj.CoreCompileInputs.cache
+C:\Users\Deivido-PC\Documents\MAIN_DATA\06\intelektikos pagrindai\4 darbas\Cross\Cross\obj\Debug\Cross.exe
+C:\Users\Deivido-PC\Documents\MAIN_DATA\06\intelektikos pagrindai\4 darbas\Cross\Cross\obj\Debug\Cross.pdb
+C:\Users\Deividas\Desktop\Cross\Cross\bin\Debug\Cross.exe.config
+C:\Users\Deividas\Desktop\Cross\Cross\bin\Debug\Cross.exe
+C:\Users\Deividas\Desktop\Cross\Cross\bin\Debug\Cross.pdb
+C:\Users\Deividas\Desktop\Cross\Cross\obj\Debug\Cross.csprojAssemblyReference.cache
+C:\Users\Deividas\Desktop\Cross\Cross\obj\Debug\Cross.csproj.CoreCompileInputs.cache
+C:\Users\Deividas\Desktop\Cross\Cross\obj\Debug\Cross.exe
+C:\Users\Deividas\Desktop\Cross\Cross\obj\Debug\Cross.pdb
+C:\Users\Deividas\Desktop\Cross\Cross\bin\Debug\Cross.exe.CodeAnalysisLog.xml
+C:\Users\Deividas\Desktop\Cross\Cross\bin\Debug\Cross.exe.lastcodeanalysissucceeded
+C:\MyFiles\MainData\06\intelektikos pagrindai\4 darbas\Cross\Cross\bin\Debug\Cross.exe.config
+C:\MyFiles\MainData\06\intelektikos pagrindai\4 darbas\Cross\Cross\bin\Debug\Cross.exe
+C:\MyFiles\MainData\06\intelektikos pagrindai\4 darbas\Cross\Cross\bin\Debug\Cross.pdb
+C:\MyFiles\MainData\06\intelektikos pagrindai\4 darbas\Cross\Cross\obj\Debug\Cross.csprojAssemblyReference.cache
+C:\MyFiles\MainData\06\intelektikos pagrindai\4 darbas\Cross\Cross\obj\Debug\Cross.csproj.CoreCompileInputs.cache
+C:\MyFiles\MainData\06\intelektikos pagrindai\4 darbas\Cross\Cross\obj\Debug\Cross.exe
+C:\MyFiles\MainData\06\intelektikos pagrindai\4 darbas\Cross\Cross\obj\Debug\Cross.pdb
